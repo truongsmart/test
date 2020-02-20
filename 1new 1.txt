@@ -1,0 +1,10 @@
+Database Created
+
+Details
+
+Your database has been setup. Use the following values:
+
+Database:	muarenhat_v1
+Host:	localhost
+Username:	muarenhat_v1
+Password:	hanoi123456789
